@@ -4,7 +4,6 @@ def isPalindrome(x):
         return False
     result = 0
     while x!=0:
-        temp = result*10 + x%10
-        result = temp
+        result = result*10 + x%10
         x = x//10
-    return True if xx==result else False
+    return xx==result
