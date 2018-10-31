@@ -1,3 +1,3 @@
 # LeetCode
-## LeetCode 中文  
-## LeetCode 英文  
+## [LeetCode CN](https://leetcode-cn.com/)  
+ 
