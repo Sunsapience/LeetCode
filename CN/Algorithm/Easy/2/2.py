@@ -1,9 +1,4 @@
 def reverse(x):
-    """
-    :type x: int
-    :rtype: int
-    """
-    xx=x
     result = 0
     k = 1 if x>=0 else -1
     x=k*x
